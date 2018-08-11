@@ -1,1 +1,3 @@
-# EmploeerApp
+# EmployeerApp
+Vue.js+Firestore
+
